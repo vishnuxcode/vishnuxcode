@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @vishnuxcode
-- 👀 I’m interested in becoming better
-- 🌱 I’m currently learning Mern Stack / ML
+- 👀 I’m interested in Innovative Development
+- 🌱 I’m currently learning Mern Stack
+- 🤓 Tech enthusiast Ofcourse 
